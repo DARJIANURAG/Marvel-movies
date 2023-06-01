@@ -79,7 +79,7 @@
 .movie1 ul li a{
 	border-radius: 15px;
 	text-decoration: none;
-	color: #fff;
+	color: orange;
 	padding: 4px 12px;
 	border: 1px solid orange;
 	transition: 0.6s ease;
@@ -87,13 +87,13 @@
 
 .movie1 ul li a:hover{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
 .movie1 ul li.active a{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
@@ -120,7 +120,7 @@
 .movie2 ul li a{
 	border-radius: 15px;
 	text-decoration: none;
-	color: #fff;
+	color: orange;
 	padding: 4px 12px;
 	border: 1px solid orange;
 	transition: 0.6s ease;
@@ -128,13 +128,13 @@
 
 .movie2 ul li a:hover{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
 .movie2 ul li.active a{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
@@ -161,7 +161,7 @@
 .movie3 ul li a{
 	border-radius: 15px;
 	text-decoration: none;
-	color: #fff;
+	color: orange;
 	padding: 4px 12px;
 	border: 1px solid orange;
 	transition: 0.6s ease;
@@ -169,13 +169,13 @@
 
 .movie3 ul li a:hover{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
 .movie3 ul li.active a{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
@@ -202,7 +202,7 @@
 .movie4 ul li a{
 	border-radius: 15px;
 	text-decoration: none;
-	color: #fff;
+	color: orange;
 	padding: 4px 12px;
 	border: 1px solid orange;
 	transition: 0.6s ease;
@@ -210,13 +210,13 @@
 
 .movie4 ul li a:hover{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
 .movie4 ul li.active a{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
@@ -249,7 +249,7 @@
 .movie5 ul li a{
 	border-radius: 15px;
 	text-decoration: none;
-	color: #fff;
+	color: orange;
 	padding: 4px 12px;
 	border: 1px solid orange;
 	transition: 0.6s ease;
@@ -257,13 +257,13 @@
 
 .movie5 ul li a:hover{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
 .movie5 ul li.active a{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
@@ -291,7 +291,7 @@
 .movie6 ul li a{
 	border-radius: 15px;
 	text-decoration: none;
-	color: #fff;
+	color: orange;
 	padding: 4px 12px;
 	border: 1px solid orange;
 	transition: 0.6s ease;
@@ -299,13 +299,13 @@
 
 .movie6 ul li a:hover{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
 .movie6 ul li.active a{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
@@ -333,7 +333,7 @@
 .movie7 ul li a{
 	border-radius: 15px;
 	text-decoration: none;
-	color: #fff;
+	color: orange;
 	padding: 4px 12px;
 	border: 1px solid orange;
 	transition: 0.6s ease;
@@ -341,13 +341,13 @@
 
 .movie7 ul li a:hover{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
 .movie7 ul li.active a{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
@@ -375,7 +375,7 @@
 .movie8 ul li a{
 	border-radius: 15px;
 	text-decoration: none;
-	color: #fff;
+	color: orange;
 	padding: 4px 12px;
 	border: 1px solid orange;
 	transition: 0.6s ease;
@@ -383,13 +383,13 @@
 
 .movie8 ul li a:hover{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
 .movie8 ul li.active a{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
@@ -417,7 +417,7 @@
 .movie9 ul li a{
 	border-radius: 15px;
 	text-decoration: none;
-	color: #fff;
+	color: orange;
 	padding: 4px 12px;
 	border: 1px solid orange;
 	transition: 0.6s ease;
@@ -425,13 +425,13 @@
 
 .movie9 ul li a:hover{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
 .movie9 ul li.active a{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
@@ -459,7 +459,7 @@
 .movie10 ul li a{
 	border-radius: 15px;
 	text-decoration: none;
-	color: #fff;
+	color: orange;
 	padding: 4px 12px;
 	border: 1px solid orange;
 	transition: 0.6s ease;
@@ -467,13 +467,13 @@
 
 .movie10 ul li a:hover{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
 .movie10 ul li.active a{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
@@ -501,7 +501,7 @@
 .movie11 ul li a{
 	border-radius: 15px;
 	text-decoration: none;
-	color: #fff;
+	color: orange;
 	padding: 4px 12px;
 	border: 1px solid orange;
 	transition: 0.6s ease;
@@ -509,13 +509,13 @@
 
 .movie11 ul li a:hover{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
 .movie11 ul li.active a{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
@@ -543,7 +543,7 @@
 .movie12 ul li a{
 	border-radius: 15px;
 	text-decoration: none;
-	color: #fff;
+	color: orange;
 	padding: 4px 12px;
 	border: 1px solid orange;
 	transition: 0.6s ease;
@@ -551,13 +551,13 @@
 
 .movie12 ul li a:hover{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
 .movie12 ul li.active a{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
@@ -585,7 +585,7 @@
 .movie13 ul li a{
 	border-radius: 15px;
 	text-decoration: none;
-	color: #fff;
+	color: orange;
 	padding: 4px 12px;
 	border: 1px solid orange;
 	transition: 0.6s ease;
@@ -593,13 +593,13 @@
 
 .movie13 ul li a:hover{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
 .movie13 ul li.active a{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
@@ -627,7 +627,7 @@
 .movie14 ul li a{
 	border-radius: 15px;
 	text-decoration: none;
-	color: #fff;
+	color: orange;
 	padding: 4px 12px;
 	border: 1px solid orange;
 	transition: 0.6s ease;
@@ -635,13 +635,13 @@
 
 .movie14 ul li a:hover{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
 .movie14 ul li.active a{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
@@ -669,7 +669,7 @@
 .movie15 ul li a{
 	border-radius: 15px;
 	text-decoration: none;
-	color: #fff;
+	color: orange;
 	padding: 4px 12px;
 	border: 1px solid orange;
 	transition: 0.6s ease;
@@ -677,13 +677,13 @@
 
 .movie15 ul li a:hover{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
 .movie15 ul li.active a{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
@@ -711,7 +711,7 @@
 .movie16 ul li a{
 	border-radius: 15px;
 	text-decoration: none;
-	color: #fff;
+	color: orange;
 	padding: 4px 12px;
 	border: 1px solid orange;
 	transition: 0.6s ease;
@@ -719,13 +719,13 @@
 
 .movie16 ul li a:hover{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
 .movie16 ul li.active a{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
@@ -753,7 +753,7 @@
 .movie17 ul li a{
 	border-radius: 15px;
 	text-decoration: none;
-	color: #fff;
+	color: orange;
 	padding: 4px 12px;
 	border: 1px solid orange;
 	transition: 0.6s ease;
@@ -761,13 +761,13 @@
 
 .movie17 ul li a:hover{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
 .movie17 ul li.active a{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
@@ -795,7 +795,7 @@
 .movie18 ul li a{
 	border-radius: 15px;
 	text-decoration: none;
-	color: #fff;
+	color: orange;
 	padding: 4px 12px;
 	border: 1px solid orange;
 	transition: 0.6s ease;
@@ -803,13 +803,13 @@
 
 .movie18 ul li a:hover{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
 .movie18 ul li.active a{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
@@ -837,7 +837,7 @@
 .movie19 ul li a{
 	border-radius: 15px;
 	text-decoration: none;
-	color: #fff;
+	color: orange;
 	padding: 4px 12px;
 	border: 1px solid orange;
 	transition: 0.6s ease;
@@ -845,13 +845,13 @@
 
 .movie19 ul li a:hover{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
 .movie19 ul li.active a{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
@@ -879,7 +879,7 @@
 .movie20 ul li a{
 	border-radius: 15px;
 	text-decoration: none;
-	color: #fff;
+	color: orange;
 	padding: 4px 12px;
 	border: 1px solid orange;
 	transition: 0.6s ease;
@@ -887,12 +887,12 @@
 
 .movie20 ul li a:hover{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
 
 .movie20 ul li.active a{
   border-radius: 15px;
-	background-color: #fff;
+	background-color: orange;
 	color: #000;
 }
